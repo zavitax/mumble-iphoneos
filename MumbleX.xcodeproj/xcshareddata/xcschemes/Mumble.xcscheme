@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-               BuildableName = "Mumble.app"
-               BlueprintName = "Mumble"
-               ReferencedContainer = "container:Mumble.xcodeproj">
+               BuildableName = "Mumble X.app"
+               BlueprintName = "MumbleX"
+               ReferencedContainer = "container:MumbleX.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,9 +31,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Mumble.app"
-            BlueprintName = "Mumble"
-            ReferencedContainer = "container:Mumble.xcodeproj">
+            BuildableName = "Mumble X.app"
+            BlueprintName = "MumbleX"
+            ReferencedContainer = "container:MumbleX.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -54,9 +54,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Mumble.app"
-            BlueprintName = "Mumble"
-            ReferencedContainer = "container:Mumble.xcodeproj">
+            BuildableName = "Mumble X.app"
+            BlueprintName = "MumbleX"
+            ReferencedContainer = "container:MumbleX.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "Mumble.app"
-            BlueprintName = "Mumble"
-            ReferencedContainer = "container:Mumble.xcodeproj">
+            BuildableName = "Mumble X.app"
+            BlueprintName = "MumbleX"
+            ReferencedContainer = "container:MumbleX.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

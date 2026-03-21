@@ -62,4 +62,4 @@ OTHER_LDFLAGS = -all_load -ObjC -lc++
 ENABLE_BITCODE = NO
 
 PRODUCT_NAME = Mumble
-PRODUCT_BUNDLE_IDENTIFIER = info.mumble.${PRODUCT_NAME:rfc1034identifier}
+PRODUCT_BUNDLE_IDENTIFIER = com.gmail.ilya77.mumble.${PRODUCT_NAME:rfc1034identifier}
