@@ -311,7 +311,7 @@ NSString *MUConnectionClosedNotification = @"MUConnectionClosedNotification";
 }
 
 - (void) connection:(MKConnection*)conn unableToConnectWithError:(NSError *)err {
-    // Will be handled elsewhere
+    // Will be handled by [MUIServerRootViewController unableToConnectWithError]
 }
 
 // The connection encountered an invalid SSL certificate chain.
